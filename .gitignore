@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Article working directories (keep these local)
+# Uncomment if you don't want to track article content:
+# */research/
+# */draft.md
+# */outline.md
